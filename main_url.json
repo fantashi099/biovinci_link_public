@@ -1,0 +1,33 @@
+{
+"chart_url": "https://raw.githubusercontent.com/fantashi099/biovinci_link_public/refs/heads/main/BYIR1.json",
+"tsig": "7a65ce111fc1113f2f315f1283b48c4e",
+"import_type": "data",
+"chart_type": "bar",
+"client_type": "0",
+"project_title": "Untitled study",
+"import_id": "ST-01KC68X6X8CQ0MXMGG70HKD3EF",
+"view_data_url": "https://raw.githubusercontent.com/hvanphucs/static_site/refs/heads/main/bardata_2.zip",
+"callback_url": "https%3A%2F%2Fbeta.bioturing.com%2Fbbrowserx%2F%3Fproject_id%3DPJ-01KC68W72FSP27APQKY1Q0E93K%26study_id%3DST-01KC68X6X8CQ0MXMGG70HKD3EF%26_t%3D1776908334842%26vinci_params%3DeyJhY3RpdmVLZXkiOiJWSVNVQUxJWkFUSU9OIiwic3ViS2V5IjoiQ2VsbCBQcm9wb3J0aW9uIiwiY2hhcnRUeXBlIjoic3RhY2tiYXIiLCJwYXlsb2FkIjp7Im1ldGFkYXRhIjoiQWdlIGF0IGRlYXRoIiwicHJvcG9ydGlvblNwbGl0QnkiOiJDRVJBRCBzY29yZSJ9fQ%253D%253D",
+"color_settings": [
+"#1f77b4",
+"#aec7e8",
+"#ff7f0e",
+"#ffbb78",
+"#2ca02c",
+"#98df8a",
+"#d62728",
+"#ff9896",
+"#9467bd",
+"#c5b0d5",
+"#8c564b",
+"#c49c94",
+"#e377c2",
+"#f7b6d2",
+"#7f7f7f",
+"#c7c7c7",
+"#bcbd22",
+"#dbdb8d",
+"#17becf",
+"#9edae5"
+]
+}
