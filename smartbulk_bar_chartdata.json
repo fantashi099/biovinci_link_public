@@ -1,0 +1,21 @@
+{
+    "smartbulk_version": "v.2.7.6",
+    "chart_url": "https://raw.githubusercontent.com/fantashi099/biovinci_link_public/refs/heads/main/smartbulk_bar_metadata.json",
+    "view_data_url": "https://github.com/fantashi099/biovinci_link_public/raw/refs/heads/main/tmp_6e399a76-5b3a-11f1-a391-0242ac110002.zip",
+    "tsig": "7a65ce111fc1113f2f315f1283b48c4e",
+    "import_type": "data",
+    "chart_type": "bar",
+    "group_id": "69e9610578056af0d85a02e8d79f7aa6",
+    "app_id": "smartbulk",
+    "client_type": "0",
+    "import_id": "data_3328218a-e9f4-11f0-b7fa-0242ac110006",
+    "project_title": "hehe",
+    "callback_url": "https%3A%2F%2Fbeta.bioturing.com%2Fsmartbulk%2F%23%2Fworkspace%3Fdata%3Ddata_3328218a-e9f4-11f0-b7fa-0242ac110006",
+    "title": "Bar plot",
+    "color_settings": [
+        "#D51F26",
+        "#272E6A",
+        "#208A42",
+        "#89288F"
+    ]
+}
